@@ -11,3 +11,8 @@ Made this to learn how FastAPI works.
 
 ### Installing Python's requests library
 `pip install requests`
+
+## How to use
+1. Run the main.py file
+2. Either open your web browser and open localhost:8000 or run the idk.py
+3. Screw around
