@@ -30,3 +30,7 @@ def change_name(newName:str | None=None,token:str | None=None):
 def get_userlist():
     print("\n\t[Printing userlist]")
     return user
+
+if __name__=="__main__":
+    import uvicorn
+    uvicorn.run(app,host="localhost", port=8000)
