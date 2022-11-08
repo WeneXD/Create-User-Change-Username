@@ -10,5 +10,3 @@ Made this to learn how FastAPI works.
 
 ### Installing Uvicorn
 `pip install uvicorn`
-
-Yeah, the code should run now.
